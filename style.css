@@ -16,11 +16,12 @@ p {
     font-family: 'Work Sans', sans-serif;
 }
 .bg{
-    background:linear-gradient(180deg, #F6F7F9 0%, #F7F8FA 63.47%);;
+    background:linear-gradient(60deg, #eff3f621 0%, #eff3f6 63.47%);;
 }
 :root{
     --primary-color:#00CC96;
     --secondary-color:#666666;
+    
     
 }
 .primary-color{
